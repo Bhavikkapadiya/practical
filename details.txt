@@ -1,0 +1,4 @@
+Import database laravel.sql Or there are migration files which you can run under database folder, Then run with php artisan serve, Then login with below credentials,
+
+Username - admin@admin.com Password - password
+
